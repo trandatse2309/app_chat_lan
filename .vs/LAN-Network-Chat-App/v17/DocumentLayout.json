@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAN-Network-Chat-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{112694A4-1EA9-4AC3-B6A8-ED1F9B6DCC4E}|LAN-Network-Chat-App\\LAN-Network-Chat-App.csproj|d:\\lan-network-chat-app\\lan-network-chat-app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112694A4-1EA9-4AC3-B6A8-ED1F9B6DCC4E}|LAN-Network-Chat-App\\LAN-Network-Chat-App.csproj|solutionrelative:lan-network-chat-app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112694A4-1EA9-4AC3-B6A8-ED1F9B6DCC4E}|LAN-Network-Chat-App\\LAN-Network-Chat-App.csproj|d:\\lan-network-chat-app\\lan-network-chat-app\\server-clients\\servermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112694A4-1EA9-4AC3-B6A8-ED1F9B6DCC4E}|LAN-Network-Chat-App\\LAN-Network-Chat-App.csproj|solutionrelative:lan-network-chat-app\\server-clients\\servermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112694A4-1EA9-4AC3-B6A8-ED1F9B6DCC4E}|LAN-Network-Chat-App\\LAN-Network-Chat-App.csproj|d:\\lan-network-chat-app\\lan-network-chat-app\\server-clients\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112694A4-1EA9-4AC3-B6A8-ED1F9B6DCC4E}|LAN-Network-Chat-App\\LAN-Network-Chat-App.csproj|solutionrelative:lan-network-chat-app\\server-clients\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112694A4-1EA9-4AC3-B6A8-ED1F9B6DCC4E}|LAN-Network-Chat-App\\LAN-Network-Chat-App.csproj|d:\\lan-network-chat-app\\lan-network-chat-app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{112694A4-1EA9-4AC3-B6A8-ED1F9B6DCC4E}|LAN-Network-Chat-App\\LAN-Network-Chat-App.csproj|solutionrelative:lan-network-chat-app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112694A4-1EA9-4AC3-B6A8-ED1F9B6DCC4E}|LAN-Network-Chat-App\\LAN-Network-Chat-App.csproj|d:\\lan-network-chat-app\\lan-network-chat-app\\lan-network-chat-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{112694A4-1EA9-4AC3-B6A8-ED1F9B6DCC4E}|LAN-Network-Chat-App\\LAN-Network-Chat-App.csproj|solutionrelative:lan-network-chat-app\\lan-network-chat-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LAN-Network-Chat-App.csproj",
+              "DocumentMoniker": "D:\\LAN-Network-Chat-App\\LAN-Network-Chat-App\\LAN-Network-Chat-App.csproj",
+              "RelativeDocumentMoniker": "LAN-Network-Chat-App\\LAN-Network-Chat-App.csproj",
+              "ToolTip": "D:\\LAN-Network-Chat-App\\LAN-Network-Chat-App\\LAN-Network-Chat-App.csproj",
+              "RelativeToolTip": "LAN-Network-Chat-App\\LAN-Network-Chat-App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T19:02:39.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "D:\\LAN-Network-Chat-App\\LAN-Network-Chat-App\\Server-Clients\\Clients.cs",
+              "RelativeDocumentMoniker": "LAN-Network-Chat-App\\Server-Clients\\Clients.cs",
+              "ToolTip": "D:\\LAN-Network-Chat-App\\LAN-Network-Chat-App\\Server-Clients\\Clients.cs",
+              "RelativeToolTip": "LAN-Network-Chat-App\\Server-Clients\\Clients.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T19:02:57.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerManager.cs",
+              "DocumentMoniker": "D:\\LAN-Network-Chat-App\\LAN-Network-Chat-App\\Server-Clients\\ServerManager.cs",
+              "RelativeDocumentMoniker": "LAN-Network-Chat-App\\Server-Clients\\ServerManager.cs",
+              "ToolTip": "D:\\LAN-Network-Chat-App\\LAN-Network-Chat-App\\Server-Clients\\ServerManager.cs",
+              "RelativeToolTip": "LAN-Network-Chat-App\\Server-Clients\\ServerManager.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAA6wGUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T16:33:39.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\LAN-Network-Chat-App\\LAN-Network-Chat-App\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LAN-Network-Chat-App\\MainWindow.xaml",
+              "ToolTip": "D:\\LAN-Network-Chat-App\\LAN-Network-Chat-App\\MainWindow.xaml",
+              "RelativeToolTip": "LAN-Network-Chat-App\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T05:12:40.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\LAN-Network-Chat-App\\LAN-Network-Chat-App\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LAN-Network-Chat-App\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\LAN-Network-Chat-App\\LAN-Network-Chat-App\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LAN-Network-Chat-App\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAQwN8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:12:37.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
